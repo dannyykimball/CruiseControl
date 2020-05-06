@@ -1,7 +1,6 @@
 import React from "react";
 import "./main.css";
 import CurrentSpeed from "../components/current-speed.component.js";
-import TargetSpeed from "../components/target-speed.component.js";
 
 export default function MainEngine() {
   return (

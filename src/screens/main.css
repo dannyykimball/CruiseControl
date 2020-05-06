@@ -18,23 +18,13 @@
   line-height: 3px;
 }
 
-.targetSpeed {
-  position: fixed;
-  background-color: white;
-  width: 10%;
-  height: 10%;
-  margin-top: 20%;
-  margin-left: 55%;
-  text-align: center;
-  line-height: 3px;
-}
 .currentSpeed {
   position: fixed;
   background-color: white;
   width: 10%;
   height: 10%;
   margin-top: 20%;
-  margin-left: 35%;
+  margin-left: 45%;
   text-align: center;
   line-height: 3px;
 }
