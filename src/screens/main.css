@@ -1,13 +1,5 @@
-.background {
-  position: absolute;
-  background-color: black;
-  display: flex;
-  margin-top: 0%;
-  margin-bottom: 0%;
-}
-
 .title {
-  position: fixed;
+  position: absolute;
   color: white;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 72pt;
@@ -15,16 +7,16 @@
   height: 10%;
   margin-top: 10%;
   text-align: center;
-  line-height: 3px;
 }
 
 .currentSpeed {
   position: fixed;
-  background-color: white;
-  width: 10%;
-  height: 10%;
+  width: 50%;
   margin-top: 20%;
-  margin-left: 45%;
+  margin-left: 25%;
   text-align: center;
-  line-height: 3px;
+}
+
+.format {
+  display: flex;
 }

@@ -7,7 +7,7 @@ export default function MainEngine() {
     <div className="background">
       <h1 className="title">Cruise Control</h1>
       <div className="currentSpeed">
-        <CurrentSpeed />
+        <CurrentSpeed className="format" />
       </div>
     </div>
   );
